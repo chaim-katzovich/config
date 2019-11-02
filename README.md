@@ -7,4 +7,5 @@ set completion-ignore-case On
 # .vimrc
 syntax on<br>
 set autoindent<br>
-set smartindent
+set smartindent<br>
+set shiftwidth=2
