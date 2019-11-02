@@ -5,6 +5,6 @@ local configurations
 set completion-ignore-case On
 
 # .vimrc
-syntax on
-set autoindent
+syntax on<br>
+set autoindent<br>
 set smartindent
