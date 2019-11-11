@@ -9,3 +9,6 @@ syntax on<br>
 set autoindent<br>
 set smartindent<br>
 set shiftwidth=2
+
+# installs
+sudo apt-get install cmake curl vim
