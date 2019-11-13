@@ -8,7 +8,8 @@ set completion-ignore-case On
 syntax on<br>
 set autoindent<br>
 set smartindent<br>
-set shiftwidth=2<br>
+set shiftwidth=4<br>
+set tabstop=4<br>
 set cursorline<br>
 hi CursorLine cterm=NONE ctermbg=black<br>
 set cursorcolumn<br>
